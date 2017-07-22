@@ -27,7 +27,7 @@ Installation
 ------------
 
 1. Install [Sublime Package Control](https://sublime.wbond.net/installation#st3) if you haven't already.
-2. Brand up the commands with `CTRL+Shift+P` or `CMD+Shift+P` and type `Package Control: Install Package` then `ElixirSublime`.
+2. Bring up the commands with `CTRL+Shift+P` or `CMD+Shift+P` and type `Package Control: Install Package` then `ElixirSublime`.
 3. Repeat the previous step for `SublimeLinter` if you don't already have it.
 
 Troubleshooting
